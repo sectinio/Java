@@ -1,6 +1,0 @@
-#noul user
-#Fri Jun 05 23:40:28 EEST 2015
-CANDVA=ALTCEVA
-adakndasondaoin=
-BLABLA=NUMAUITA
-USERNAME=douchebaddg
